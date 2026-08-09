@@ -1,0 +1,57 @@
+# =========================
+# Backend - Spring Boot
+# =========================
+
+backend/target/
+backend/.idea/
+backend/*.iml
+
+# Java compiled files
+*.class
+
+# Logs
+*.log
+
+
+# =========================
+# Frontend - React
+# =========================
+
+frontend/node_modules/
+frontend/dist/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+frontend/.env
+frontend/.env.*
+!frontend/.env.example
+
+
+# =========================
+# IDE
+# =========================
+
+.idea/
+*.iml
+.vscode/
+
+backend/HELP.md
+
+
+# =========================
+# OS
+# =========================
+
+.DS_Store
+Thumbs.db
+
+
+# =========================
+# Temporary
+# =========================
+
+*.tmp
+*.temp
